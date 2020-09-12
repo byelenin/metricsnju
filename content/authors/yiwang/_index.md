@@ -1,20 +1,21 @@
 ---
 # Display name
-# title: Nelson Bighetti
+title: Yi Wang
 
 # Username (this should match the folder name)
 authors:
-- admin
+- yiwang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-  role: Introduction to Econometrics
+role: Graduate Student  
+
 # Organizations/Affiliations
 organizations:
- - name: Nanjing University
-#  url: ""
+- name: Nanjing University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -64,22 +65,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-
 user_groups:
-- Researchers
-- Visitors
-
+- Teaching Assistants
 ---
 
-Welcome to the course website for the 2020-2021 edition of **Introduction to Econometrics**, colloquially known as just _"Intro'Metrics"(Jiliang)_, delivered by [Prof. Zhaopeng Qu](https://byelenin.github.io) at [Business School](https://nubs.nju.edu.cn),[Nanjing University](https://www.nju.edu.cn).
 
-This course introduces students to modern causal inference methods for analyzing data in economics and other social sciences. The goal is to help you develop a solid theoretical background in introductory level econometrics, the ability to implement modern econometric methods, and the critical thinking about empirical studies in economics and other social sciences. Specifically, we will learn six modern econometric research design techniques that aim to credibly estimate causal effects on economic and social relationships:
-
-- Randomized Controlled Trial(RCT) 
-- Regression(OLS) 
-- Decomposition(WD)
-- Instrumental Variables(IV) 
-- Regression Discontinuity Designs(RDD) 
-- Panel Data and Differences-in-Differences(DID)
-
-At the end, students will use at least one of them above to finish an empirical research proposal. 
